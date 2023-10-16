@@ -7,3 +7,12 @@ th{ background color: light grey}
 .sampleimg1 {height:150px; width: 150px; border: 5px; border-style: dashed red; padding: padding-top:30px; padding-right: 30px; padding-bottom; 30px; padding-left: 30px}
 .sampleimg2 {height:50cm; width:50cm; border: 5px; border-style:dashed red; padding: padding-top:30px; padding-right: 30px; padding-bottom; 30px; padding-left: 30px}
 .sampleimg3 {height:25%; width:25%; border: 5px; border-style:dashed red; padding: padding-top:30px; padding-right: 30px; padding-bottom; 30px; padding-left: 30px}
+.para{
+      color: light-blue; 
+  background-color: black;
+  text-decoration: underline;
+  text-align: justify;
+  text-transformation: uppercase;
+  font-family: monospace;
+  font-size:25 px; ;
+}
